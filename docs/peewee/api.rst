@@ -1135,7 +1135,7 @@ Query Types
 
         :rtype: :py:class:`SelectQuery`
 
-        Indicates that this query shoudl lock rows. A more generic version of
+        Indicates that this query should lock rows. A more generic version of
         the :py:meth:`~SelectQuery.for_update` method.
 
         Example:
